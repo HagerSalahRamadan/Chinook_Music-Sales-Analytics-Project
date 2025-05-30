@@ -41,12 +41,12 @@ Created relationships by dragging keys (One-to-Many)
    - Total Tracks Sold : ` 2,240 ` 📦  .
    - Average Sales : `$6` 💰 
    - Max Sales : ` $26` 📈 . 
-   - NO. Managers : `3`  . 
-   - NO. Customers : ` 59 ` 👥 . 
-  - NO. Country : `24` . 
-   - NO. Artists : `275`  .
-   - NO. Music Genres : `25`  .
-   - NO. Albums : `347`  .
+   - No. Managers : `3`  . 
+   - No. Customers : ` 59 ` 👥 . 
+  - No. Country : `24` . 
+   - No. Artists : `275`  .
+   - No. Music Genres : `25`  .
+   - No. Albums : `347`  .
 
    
 - **Slicers**: Filter data Slicer >> Year, Quarter, Month.
