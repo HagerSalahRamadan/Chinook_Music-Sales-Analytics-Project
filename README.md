@@ -12,7 +12,7 @@ Source: Chinook SQL Database (normalized schema with fact and dimension tables)
 Tools: Excel, Power Query, Power pivot, DAX (Measures).
 Modeling: Star schema with clear relationships between fact and dimension tables (Invoice_line, Invoices, Customers, Employees, Tracks, Albums, Artists, Genres, Playlists)
 
-- **Import & Clean Data Using Power QueryL**:
+- **Import & Clean Data Using Power Query**:
 Imported all tables (like Invoice, InvoiceLine, Customer, Track, Album, etc.) From SQL Server Database into Excel.
 Opened Power Query Editor for each table:
 Removed unnecessary columns.
@@ -25,7 +25,7 @@ Identified Fact table: InvoiceLine
 Identified Dimension tables: Invoice, Customer, Track, Album, Genre, Artist, MediaType, Employee.
 Created relationships by dragging keys (One-to-Many)
 
-- **Using SQL Queries in Power Query **: Wrote over 30 analytical queries, including revenue trends, customer patterns, and genre performance
+- **Using SQL Queries in Power Query**: Wrote over 30 analytical queries, including revenue trends, customer patterns, and genre performance
 🧠 Used advanced SQL: CTEs, Window Functions, Ranking, Aggregations, and automated KPI reporting using DAX 
 ---
 ## Dashboards
