@@ -37,16 +37,16 @@ Created relationships by dragging keys (One-to-Many)
 - **KPIs (Key Performance Indicators)** :-
 
    - Total Revenue : ` $2,329` 💰 . 
-   - # Invoices : ` 412` 📦  .
-   - # Total Tracks Sold : ` 2,240 ` 📦  .
+   - Total Invoices : ` 412` 📦  .
+   - Total Tracks Sold : ` 2,240 ` 📦  .
    - Average Sales : `$6` 💰 
    - Max Sales : ` $26` 📈 . 
-   - # Managers : `3`  . 
-   - # Customers : ` 59 ` 👥 . 
-  - # Country : `24` . 
-   - # Artists : `275`  .
-   - # Music Genres : `25`  .
-   - # Albums : `347`  .
+   - NO. Managers : `3`  . 
+   - NO. Customers : ` 59 ` 👥 . 
+  - NO. Country : `24` . 
+   - NO. Artists : `275`  .
+   - NO. Music Genres : `25`  .
+   - NO. Albums : `347`  .
 
    
 - **Slicers**: Filter data Slicer >> Year, Quarter, Month.
@@ -94,6 +94,8 @@ Created relationships by dragging keys (One-to-Many)
 ---
 
 ## Contact
+For any questions Contact via email **hagersalah.r39@gmail.com**.
+
 
 
 ---
